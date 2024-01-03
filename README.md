@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <body>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B8F7A0&random=false&width=435&lines=hello!;hola!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="Typing SVG" />
-  </a>
-</h1>
+  <h1 align="left">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=B8F7A0&random=false&width=435&lines=hello!;hola!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="Typing SVG" />
+     </a>
+  </h1>
 </body>
+
 <!--
 **pentelala/pentelala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
