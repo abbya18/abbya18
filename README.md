@@ -23,9 +23,11 @@
 
 - 🔭 I’m currently working on a discord bot and a personal website!
 - 🌱 I’m currently learning Javascript, Python, and speaking Korean
+
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+-->
 - 📫 How to reach me: linkedin!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have heterochromia, a condition that makes the color of one eye different from the other :D
