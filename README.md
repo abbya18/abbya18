@@ -1,7 +1,7 @@
 <body>
   <!-- intro section -->
   <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=400&color=FCE1E1&random=false&width=435&lines=hello!;hola!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=FCE1E1&random=false&width=435&height=60&lines=hello!;hola!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="Typing SVG" />
     </a>
   </p>
 
@@ -19,17 +19,14 @@
 
 <!--
 **pentelala/pentelala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a discord bot and a personal website!
+- 🌱 I’m currently learning Javascript, Python, and speaking Korean
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: linkedin!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have heterochromia, a condition that makes the color of one eye different from the other :D
 
