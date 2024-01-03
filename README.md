@@ -7,7 +7,7 @@
 
   <!-- social icons -->
   <h1 align="center">
-    <a href="https://www.linkedin.com/in/abby-arce-4a82b9251/" <img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
+    <a href="https://www.linkedin.com/in/abby-arce-4a82b9251/"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
     </a>
 </body>
 
