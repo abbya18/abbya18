@@ -6,10 +6,10 @@
   </p>
 
   <p align="left">
-    <a href="https://github.com/pentelala"><img src="https://imgur.com/a/yCKqjHK" alt="Abby Arce" />
+    <a href="https://github.com/pentelala"><img src="https://github.com/pentelala/pentelala/assets/125830962/70e6513f-a392-4f42-aa6f-2d1f51e820a3" alt="Abby Arce" />
     </a>
   </p>
-
+  
   <!-- social icons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/abby-arce-4a82b9251/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![11111](https://github.com/pentelala/pentelala/assets/125830962/70e6513f-a392-4f42-aa6f-2d1f51e820a3)
