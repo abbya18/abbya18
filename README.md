@@ -12,7 +12,7 @@
   
   <!-- social icons -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/abby-arce-4a82b9251/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
+    <a href="[My LinkedIn](https://www.linkedin.com/in/abby-arce/)"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
     </a>
   </p>
 </body>
@@ -21,8 +21,8 @@
 **pentelala/pentelala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a discord bot and a personal website!
-- 🌱 I’m currently learning Javascript, Python, and speaking Korean
+- 🔭 I’m currently working on a website and a website scraper!
+- 🌱 I’m currently learning C#, ASP.NET, and speaking Korean
 - 📫 How to reach me: linkedin!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have heterochromia, a condition that makes the color of one eye different from the other :D
