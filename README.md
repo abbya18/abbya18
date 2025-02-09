@@ -12,7 +12,7 @@
   
   <!-- social icons -->
   <p align="center">
-    <a href="[My LinkedIn](https://www.linkedin.com/in/abby-arce/)"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.icon-icons.com/icons2/3421/PNG/512/linkedin_logo_ios_icon_218567.png"/>
+    <a href="https://www.linkedin.com/in/abby-arce/"><img width="32px" alt="My LinkedIn" title="My LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/>
     </a>
   </p>
 </body>
